@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+computer-vision-and-cnn/pizza_steak.zip
+computer-vision-and-cnn/pizza_steak/
