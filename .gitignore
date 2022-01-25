@@ -135,3 +135,9 @@ computer-vision-and-cnn/10_food_classes_all_data/
 computer-vision-and-cnn/10_food_classes_10_percent.zip
 computer-vision-and-cnn/10_food_classes_10_percent/
 tensorflow_hub/
+computer-vision-and-cnn/ten_percent_model_checkpoints_weights/
+computer-vision-and-cnn/transfer_learning/
+computer-vision-and-cnn/101_classes_10_percent_data_model_checkpoint/
+computer-vision-and-cnn/101_food_classes_10_percent.zip
+computer-vision-and-cnn/101_food_classes_10_percent/
+
